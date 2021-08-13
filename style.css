@@ -308,8 +308,8 @@ nav.show div.icon-close {
 }
 
 #about .image::before {
-    content: "";
-    height: 100%;
+    content: '';
+    height: 94%;
     width: 100%;
     background: var(--base-color-second);
     position: absolute;
